@@ -41,8 +41,3 @@ technologies such as **LLMs, cloud computing, and data-driven systems**.
 ---
 
 ⭐ Always learning. Always building.
-## Hi there 👋
-
-
-- ⚡ Fun fact: ...
--->
