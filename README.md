@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner.png" width="700" alt="Building the future with code and intelligence"/>
+  <img src="https://raw.githubusercontent.com/andreinspira/andreinspira/main/assets/banner.png" width="700" />
+</p>
+
+<p align="center">
+  <em>Building the future with code and intelligence.</em>
 </p>
 
 ---
