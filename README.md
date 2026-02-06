@@ -34,6 +34,8 @@ technologies such as **LLMs, cloud computing, and data-driven systems**.
 ---
 
 ## 🌎 Connect with me
+<img width="957" height="210" alt="image" src="https://github.com/user-attachments/assets/e7df12bc-7d5c-4332-8b60-88b14b0e35bc" />
+
 - 💼 LinkedIn: https://https://www.linkedin.com/in/andré-guilherme-da-cunha-magalhães-75284038b/
 - 📧 Email: oficial.andre@hotmail.com
 
