@@ -20,11 +20,7 @@ technologies such as **LLMs, cloud computing, and data-driven systems**.
 ---
 
 ## 🧠 Areas of Focus
-- Artificial Intelligence & Large Language Models (LLMs)
-- Backend Development
-- Software Architecture
-- Data & Systems Engineering
-- Cloud Computing (Azure / AWS)
+<img width="1536" height="1024" alt="ChatGPT Image 6 de fev  de 2026, 11_38_23" src="https://github.com/user-attachments/assets/02f6e972-7599-4d90-b2d8-d1cf498d19e6" />
 
 ---
 
