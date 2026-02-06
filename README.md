@@ -1,3 +1,7 @@
+
+
+
+<img width="1024" height="1536" alt="ChatGPT Image 6 de fev  de 2026, 00_05_19" src="https://github.com/user-attachments/assets/5d5a8a1d-124e-412a-82e5-03d1b8ba7a5c" />
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/49a9e5c2-8047-4aca-b648-3b95cc8cb4d4"
