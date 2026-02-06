@@ -6,7 +6,7 @@
   <img 
     src="https://github.com/user-attachments/assets/49a9e5c2-8047-4aca-b648-3b95cc8cb4d4"
     width="700"
-   
+   alt="AI & Software Engineering Banner"
   />
 </p>
 
