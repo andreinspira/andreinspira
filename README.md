@@ -25,8 +25,8 @@ technologies such as **LLMs, cloud computing, and data-driven systems**.
 ---
 
 ## 🚀 Tech Stack
+<img width="1536" height="1024" alt="ChatGPT Image 6 de fev  de 2026, 11_50_09" src="https://github.com/user-attachments/assets/58662044-9fc5-4532-8a0b-d1c46d77eb98" />
 
-<img width="1536" height="1024" alt="ChatGPT Image 6 de fev  de 2026, 10_20_20" src="https://github.com/user-attachments/assets/a23e61fa-7da3-4c01-ba7b-d7a22598e805" />
 
 
 
